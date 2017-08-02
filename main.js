@@ -1,5 +1,7 @@
+
+
 console.log(customers);
-console.log(customers.results[1]);
+console.log(customers.results[1].);
 console.log(customers.results[5]);
 
             // const customers = {"results":[
